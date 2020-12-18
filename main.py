@@ -1,0 +1,6 @@
+import os
+
+
+secret = "verysecret"
+
+
