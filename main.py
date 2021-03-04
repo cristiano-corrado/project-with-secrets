@@ -1,6 +1,6 @@
 import os
 
-passoword="asdf"
+password="asdf"
 secret = "verysecret"
 
 
