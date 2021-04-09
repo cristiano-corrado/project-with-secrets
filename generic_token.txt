@@ -1,0 +1,5 @@
+_token: stocazzo
+_token: ${stocazzo}
+_token :$ENV_TOKEN
+_token : withspace
+_token : "with_quotes"
