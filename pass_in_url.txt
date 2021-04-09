@@ -1,0 +1,2 @@
+mongo://UUUryan:ordpassw123@mongo.host.example.com/db1
+git://UUUreynold:GGGpass@github.com

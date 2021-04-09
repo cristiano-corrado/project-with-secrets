@@ -1,0 +1,3 @@
+
+def auth(user: "urandom", password = None):
+    print(user,password)
