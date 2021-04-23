@@ -1,1 +1,3 @@
 _token: "Heavypasswordlength1234."
+_token: ${ENV_VAR}
+_token: "${ENV_VAR}"
